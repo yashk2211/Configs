@@ -1,5 +1,5 @@
 # ===============================
-# ORDER-SERVICE DATABASE CONFIGURATION
+# DATABASE CONFIGURATION
 # ===============================
 spring:
   datasource:
